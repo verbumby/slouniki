@@ -1,0 +1,3 @@
+[submodule "grammardb"]
+	path = grammardb/grammardb
+	url = git@github.com:Belarus/GrammarDB.git
