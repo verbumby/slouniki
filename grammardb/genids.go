@@ -17,10 +17,10 @@ type rowT struct {
 	Suffix string
 }
 
-const GrammarDBName = "grammardb"
+const DirName = "."
 
 func main() {
-	xmls, err := os.ReadDir(GrammarDBName)
+	xmls, err := os.ReadDir(DirName)
 	if err != nil {
 		panic(err)
 	}
@@ -37,7 +37,7 @@ func main() {
 		if !strings.HasSuffix(f.Name(), ".xml") {
 			continue
 		}
-		filename := GrammarDBName + "/" + f.Name()
+		filename := DirName + "/" + f.Name()
 
 		f, err := os.Open(filename)
 		if err != nil {
