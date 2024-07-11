@@ -18,7 +18,7 @@ astrol.
 	astrology
 astron.
 	astronomy
-AustralЕ
+AustralE
 	Australian English
 bibl.
 	biblical
