@@ -1,0 +1,324 @@
+абл
+	абласное (дыялектнае) слова (выраз) ‒ mundartlich
+або
+	‒ oder
+ав
+	авіяцыя, авіяцыйная тэхніка ‒ Flugwesen
+аддз
+	аддзяляльная прыстаўка ‒ trennbares Präfix
+адз
+	адзіночны лік ‒ Singular
+адносн
+	адносны ‒ relativ
+анат
+	анатомія ‒ Anatomie
+антр
+	антрапалогія ‒ Anthropologie
+археал
+	археалогія, археаграфія ‒ Archäologie, Archäographie
+архіт
+	архітэктура ‒ Architektur
+астр
+	астраномія ‒ Astronomie
+аўта
+	аўтамабільная тэхніка, прамысловасць ‒ Auto, Autotechnik
+афіц
+	афіцыйны ‒ offiziell
+бат
+	батаніка, раслінны свет ‒ Botanik
+безас
+	безаасабовы дзеяслоў ‒ unpersönliches Verb
+бібл
+	біблійны выраз ‒ biblisch
+бірж
+	біржавы тэрмін ‒ Börsenausdruck
+біял
+	(агульная) біялогія (allgemeine) ‒ Biologie
+буд
+	будаўніцтва, будаўнічая тэхніка і матэрыялы ‒ Bauwesen, Bautechnik
+бухг
+	бухгалтэрыя, улік ‒ Buchhaltung
+вайск
+	вайсковая справа, ваенная тэхніка ‒ Militärwesen
+вет
+	ветэрынарыя ‒ Veterinärmedizin
+він. скл
+	вінавальны склон ‒ Akkusativ
+выкл
+	выклічнік ‒ Interjektion
+высок
+	высокі (урачысты) стыль ‒ erhaben
+выш. ст
+	вышэйшая ступень ‒ Komparativ
+геагр
+	(агульная, фізічная, эканамічная рэгіянальная) геаграфія ‒ Erdkunde
+геад
+	геадэзія ‒ Geodäsie
+геал
+	геалогія ‒ Geologie
+гіст
+	гісторыя ‒ historisch
+гл
+	глядзі, параўнай ‒ siehe, vergleiche
+гл тс
+	глядзі таксама, параўнай таксама ‒ siehe auch, vergleiche auch
+горн
+	горная справа ‒ Bergbau
+грам
+	граматычны тэрмін (марфалогія, сінтаксіс, словаўтварэнне) ‒ Grammatik (Morphologie, Syntax, Wortbildung)
+груб
+	грубае, зняважлівае або лаянкавае слова (выраз) ‒ salopp, derb
+далуч
+	далучальны ‒ anordnend
+дзеепрым
+	дзеепрыметнік ‒ Partizip
+дып
+	дыпламатыя ‒ diplomatisch
+ж
+	жаночы род ‒ Femininum
+жарт
+	жартаўлівае слова (выраз) ‒ scherzhaft
+жыв
+	жывапіс, графіка ‒ Kunstmalerei
+заал
+	залогія, жывёльны свет ‒ Zoologie
+займ
+	займеннік ‒ Pronomen
+зал. стан
+	залежны стан дзеяслова ‒ Passiv
+зборн
+	зборны назоўнік ‒ Sammelname
+злучн
+	злучнік ‒ Konjunktion
+і
+	‒ und / oder
+і г. д.
+	і гэтак далей ‒ und so weiter
+і пад.
+	і да таго падобнае ‒ und dergleichen
+іран
+	іранічны выраз ‒ spöttisch
+камерц
+	камерцыйна-гандлёвы тэрмін ‒ Handel
+камп
+	камп’ютар, інфарматыка, электроніка ‒ Computer, Informatik, Elektronik
+канц
+	канцылярская мова ‒ Kanzleisprache
+карт
+	гульні ў карты ‒ Kartenspiele
+касм
+	касмічная тэхніка, засваенне космасу ‒ Weltraumerschließung, kosmische Technik
+кіно
+	кінематограф ‒ Filmkunst
+кл. ф
+	клічная форма ‒ Vokativ
+кніжн
+	кніжны выраз ‒ in der schriftlichen Sprache gebräuchlich
+кравец
+	кравецкая справа ‒ Schneiderei, Modeschaffen
+кул
+	кулінарыя, прадукты харчавання ‒ Kochkunst, Lebensmittel
+ласк
+	ласкальная форма
+лінгв
+	агульная лінгвістыка ‒ allgemeine Linguistik
+літ
+	літаратуразнаўства, гісторыя літаратуры ‒ Literaturwissenschaft und -geschichte
+ліч
+	лічэбнік ‒ Numerale
+м
+	мужчынскі род ‒ Maskulinum
+марск
+	марская справа, марская тэхніка ‒ Seefahrt, Schiffe
+маст
+	мастацтвазнаўства, гісторыя мастацтва ‒ Kunstwissenschaft und -geschichte
+матэм
+	матэматыка ‒ Mathematik
+мед
+	медыцына, ахова здароўя ‒ Medizin, Gesundheitswesen
+метэар
+	метэаралогія ‒ Meteorologie
+мін
+	мінералы, карысныя выкапні ‒ Mineralogie
+міфал
+	міфалогія ‒ Mythologie
+мн
+	множны лік ‒ Plural
+муз
+	музыказнаўства, гісторыя музыкі, музычныя інструменты ‒ Musikkunst
+н
+	ніякі род ‒ Neutrum
+-н
+	–небудзь ‒ irgend-
+наз
+	назоўнік ‒ Substantiv
+найвыш. ст
+	найвышэйшая ступень
+напр
+	напрыклад ‒ zum Beispiel
+неаддз
+	неаддзяляльная прыстаўка ‒ untrennbares Präfix
+нескл
+	не скланяецца ‒ undeklinierbar
+пабочн. слова
+	пабочнае (уводнае) слова ‒ Schaltwort
+пагард
+	пагардліва ‒ abschätzig, geringschätzig
+палігр
+	паліграфія, друк, паліграфічная тэхніка ‒ Druck, Polygraphie
+паліт
+	паліталогія, бягучая палітыка ‒ Politik, Politikwissenschaft
+паляўн
+	паляўнічы тэрмін ‒ Jagdwesen
+памянш
+	памяншальная або ласкальная форма ‒ Diminutiv
+паэт
+	паэтычны (вобразны) выраз ‒ poetischer (bildlicher) Ausdruck
+пед
+	педагогіка, агульная адукацыя ‒ Pädagogik, Schulwesen
+перан
+	ужываецца ў пераносным сэнсе übertragen
+прым
+	прыметнік ‒ Adjektiv
+прыназ
+	прыназоўнік ‒ Präposition
+прысл
+	прыслоўе ‒ Adverb
+псіхал
+	(тэарэтычная і практычная) псіхалогія ‒ theoretische und angewandte Psychologie
+пыт
+	пытанне, пытальны ‒ Frage-; interrogativ
+радыё
+	радыётэхніка
+разм
+	размоўны выраз або адхіленне ад літаратурнай нормы ‒ umgangssprachlich oder von der Sprachnorm abweichend
+рыб
+	рыбалоўства, рыбная гаспадарка ‒ Fischerei
+рэдк
+	рэдкаўжывальнае слова (выраз) ‒ selten gebraucht
+рэл
+	рэлігіі свету, рэлігіязнаўства ‒ Religion
+с.-г.
+	сельская гаспадарка і сялянскі побыт ‒ Landwirtschaft
+скар
+	скарочана ‒ Abkürzung
+слаб. спраж
+	слабое спражэнне ‒ schwache Deklination
+спалуч
+	спалучальны ‒ kopulativ
+спарт
+	фізкультура і спорт ‒ Sport
+спец
+	спецыяльны тэрмін (ужываны ў пэўных галінах дзейнасці чалавека) ‒ fachsprachlich
+страх
+	страхаванне ‒ Versicherung
+супаст
+	супастаўляльны ‒ vergleichend
+супраць
+	‒ entgegensetzend
+тк
+	толькі ‒ nur
+тс
+	таксама ‒ auch
+тэатр
+	тэатразнаўства, гісторыя тэатру ‒ Theater
+тэкст
+	тэкстыльная вытворчасць, тканіны ‒ Textilindustrie, Textilien
+тэх
+	політэхнічны тэрмін, тэхнічныя прылады, станкі і г. д. ‒ Technik
+у знач
+	у значэнні ‒ in der Bedeutung (von)
+у розн. знач
+	у розных значэннях ‒ in verschiedenen Bedeutungen
+уст
+	устарэлае слова (выраз) ‒ veraltet
+фалькл
+	фальклор і фалькларыстыка ‒ Folklore
+фан
+	фанетыка, фаналогія ‒ Phonetik, Phonologie
+фарм
+	фармацэўтыка, фармакалогія ‒ Pharmazie
+фіз
+	фізіка ‒ Physik
+фізіял
+	фізіялогія ‒ Physiologie
+філас
+	філасофія ‒ Philosophie
+фін
+	фінансы, крэдыт, аўдыт ‒ Finanzwirtschaft
+фота
+	фатаграфія, фотатэхніка ‒ Photographie
+хім
+	хімія ‒ Chemie
+царк
+	царкоўнае ‒ kirchlich
+цяпер. час
+	цяперашні час ‒ Präsens
+часц
+	часціца ‒ Partikel
+часцей
+	häufiger
+чыг
+	чыгунка, чыгуначная тэхніка ‒ Eisenbahnwesen
+шахм
+	шахматы ‒ Schachspiel
+эк
+	эканоміка ‒ Ökonomik, Wirtschaft
+эл
+	электрычнасць, электратэхніка ‒ Elektrizität, Elektrotechnik
+юрыд
+	юрыдычны (прававы) тэрмін ‒ Jura, Gesetzgebung
+ядзерн
+	ядзерная энергетыка (фізіка) ‒ Kernphysik, Kerntechnik
+A
+	Akkusativ ‒ вінавальны склон
+conj
+	Konjunktiv ‒ умоўны лад, кан’юнктыў
+D
+	Dativ ‒ давальны склон
+etw.
+	etwas ‒ што-небудзь
+f
+	Femininum ‒ жаночы род
+G
+	Genitiv ‒ родны склон
+h
+	з дзеясловам haben
+impf
+	Imperfekt ‒ імперфект, прэтэрыт
+inf
+	Infinitiv ‒ неазначальная форма, інфінітыў
+j-d
+	jemand ‒ хто-небудзь
+j-m
+	jemandem ‒ каму-небудзь
+j-n
+	jemanden (jemand) ‒ каго-небудзь
+j-s
+	jemandes ‒ чый-небудзь
+m
+	Maskulinum ‒ мужчынскі род
+N
+	Nominativ ‒ назо́ўны склон
+n
+	Neutrum ‒ ніякі род
+part II
+	Partizip II ‒ дзеепрыметнік (партыцып) ІІ
+pl
+	Plural ‒ множны лік
+s
+	з дзеясловам sein
+sg
+	Singular ‒ адзіночны лік
+sub
+	substantiviert ‒ субстантываваная форма
+usw.
+	und so weiter ‒ і так далей
+vi
+	intransitives Verb ‒ непераходны дзеяслоў
+vimp
+	unpersönliches Verb ‒ безасабовы дзеяслоў
+vt
+	transitives Verb ‒ пераходны дзеяслоў
+z. B.
+	zum Beispiel ‒ напрыклад
