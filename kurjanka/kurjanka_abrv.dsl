@@ -33,7 +33,7 @@ f
 G
 	Genitiv
 
-\(h\)
+(h)
 	з дзеясловам haben
 
 imp
@@ -117,7 +117,7 @@ prp
 prtc
 	Partikel
 
-\(s\)
+(s)
 	з дзеясловам sein
 
 sg
