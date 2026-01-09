@@ -20,7 +20,7 @@ type rowT struct {
 const DirName = "."
 
 func load23ids() map[string]rowT {
-	ids23f, err := os.Open("./ids-2023.txt")
+	ids23f, err := os.Open("./ids-2025.txt")
 	if err != nil {
 		panic(err)
 	}
