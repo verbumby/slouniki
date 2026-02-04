@@ -20,7 +20,7 @@
 	архітэктура ‒ Architektur
 астр.
 	астраномія ‒ Astronomie
-аўта.
+аўта
 	аўтамабільная тэхніка, прамысловасць ‒ Auto, Autotechnik
 афіц.
 	афіцыйны ‒ offiziell
@@ -177,7 +177,7 @@
 пед.
 	педагогіка, агульная адукацыя ‒ Pädagogik, Schulwesen
 перан.
-	ужываецца ў пераносным сэнсе übertragen
+	ужываецца ў пераносным сэнсе ‒ übertragen
 прым.
 	прыметнік ‒ Adjektiv
 прыназ.
@@ -204,7 +204,7 @@
 	скарочана ‒ Abkürzung
 слаб. спраж.
 	слабое спражэнне ‒ schwache Deklination
-спалуч
+спалуч.
 	спалучальны ‒ kopulativ
 спарт.
 	фізкультура і спорт ‒ Sport
@@ -212,7 +212,7 @@
 	спецыяльны тэрмін (ужываны ў пэўных галінах дзейнасці чалавека) ‒ fachsprachlich
 страх.
 	страхаванне ‒ Versicherung
-супаст
+супаст.
 	супастаўляльны ‒ vergleichend
 супрац.
 	‒ entgegensetzend
@@ -323,9 +323,8 @@ vt
 z. B.
 	zum Beispiel ‒ напрыклад
 ◊
-	пасля знака <i>ромб</i> падаюцца ўстойлівыя фразеалагізмы, ідыёмы, прыказкі і прымаўкі ‒ Die Raute kennzeichnet idiomatische Wendungen und feste Wortverbindungen
+	пасля знака ромб падаюцца ўстойлівыя фразеалагізмы, ідыёмы, прыказкі і прымаўкі ‒ Die Raute kennzeichnet idiomatische Wendungen und feste Wortverbindungen
 ≅
-	<i>знак прыблізнай роўнасці</i> паказвае на тое, што наступны за ≅ пераклад толькі блізкі па сэнсе да беларускага звароту і адрозніваецца ад яго па форме або вобразнасці ‒ Die Übersetzung entspricht nicht völlig dem belarussischen Originaltext, eine Erklärung des Stichwortes ist erforderlich
+	знак прыблізнай роўнасці паказвае на тое, што наступны за ≅ пераклад толькі блізкі па сэнсе да беларускага звароту і адрозніваецца ад яго па форме або вобразнасці ‒ Die Übersetzung entspricht nicht völlig dem belarussischen Originaltext, eine Erklärung des Stichwortes ist erforderlich
 *
-	Дзеясловы моцнага і няправільнага спражэння пазначаны зорачкай (*), якая адсылае карыстальніка да табліцы асноўных граматычных формаў гэтых дзеясловаў у канцы слоўніка, у якой
-дзеясловы пададзены без прыставак ‒ Starke und unregelmäßige Verben werden mit dem Stern (*) gekennzeichnet. Der Wörterbuchnutzer kann ihre grammatikalischen Formen am Ende des Wörterbuches in der Konjugationstabelle nachschlagen
+	Дзеясловы моцнага і няправільнага спражэння пазначаны зорачкай (*), якая адсылае карыстальніка да табліцы асноўных граматычных формаў гэтых дзеясловаў у канцы слоўніка, у якой дзеясловы пададзены без прыставак ‒ Starke und unregelmäßige Verben werden mit dem Stern (*) gekennzeichnet. Der Wörterbuchnutzer kann ihre grammatikalischen Formen am Ende des Wörterbuches in der Konjugationstabelle nachschlagen
