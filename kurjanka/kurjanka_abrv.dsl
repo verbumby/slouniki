@@ -7,13 +7,13 @@ a
 	Adjektiv
 
 A
-	Akkusativ
+	Akkusativ ‒ вінавальны склон
 
 adv
 	Adverb
 
 cj
-	Konjunktion
+	Konjunktiv ‒ умоўны лад, кан’юнктыў
 
 comp
 	Komparativ
@@ -22,16 +22,16 @@ conj
 	Konjunktiv
 
 D
-	Dativ
+	Dativ ‒ давальны склон
 
 etw.
-	etwas
+	etwas ‒ што-небудзь
 
 f
-	Femininum
+	Femininum ‒ жаночы род
 
 G
-	Genitiv
+	Genitiv ‒ родны склон
 
 (h)
 	з дзеясловам haben
@@ -40,10 +40,10 @@ imp
 	Imperativ
 
 impf
-	Imperfekt
+	Imperfekt ‒ імперфект, прэтэрыт
 
 inf
-	Infinitiv
+	Infinitiv ‒ неазначальная форма, інфінітыў
 
 int
 	Interjektion
@@ -52,25 +52,25 @@ inv
 	invariable
 
 j-d
-	jemand
+	jemand ‒ хто-небудзь
 
 j-m
-	jemand(em)
+	jemand(em) ‒ каму-небудзь
 
 j-n
-	jemanden
+	jemand(en) ‒ каго-небудзь
 
 j-s
-	jemandes
+	jemandes ‒ чый-небудзь
 
 m
-	Maskulinum
+	Maskulinum ‒ мужчынскі род
 
 n
-	Neutrum
+	Neutrum ‒ ніякі род
 
 N
-	Nominativ
+	Nominativ ‒ назо́ўны склон
 
 num
 	Numerale
@@ -79,10 +79,10 @@ part I
 	Partizip I
 
 part II
-	Partizip II
+	Partizip II ‒ дзеепрыметнік (партыцып) ІІ
 
 pl
-	Plural
+	Plural ‒ множны лік
 
 präs
 	Präsems
@@ -121,52 +121,55 @@ prtc
 	з дзеясловам sein
 
 sg
-	Singular
+	Singular ‒ адзіночны лік
 
 sub
-	substantiviert
+	substantiviert ‒ субстантываваная форма
 
 superl
 	Superlativ
 
 usw.
-	und so weiter
+	und so weiter ‒ і так далей
 
 vi
-	intransitives Verb
+	intransitives Verb ‒ непераходны дзеяслоў
 
 vimp
-	impersonales, unpersönliches Verb
+	impersonales, unpersönliches Verb ‒ безасабовы дзеяслоў
 
 vt
-	transitives Verb
+	transitives Verb ‒ пераходны дзеяслоў
 
 абл.
-	абласное
+	абласное (дыялектнае) слова (выраз) ‒ mundartlich
 
 ав.
-	авіяцыя
+	авіяцыя, авіяцыйная тэхніка ‒ Flugwesen
 
 аддз.
-	аддзяляльная прыстаўка
+	аддзяляльная прыстаўка ‒ trennbares Präfix
 
 анат.
-	анатомія
+	анатомія ‒ Anatomie
 
 антр.
-	антрапалогія
+	антрапалогія ‒ Anthropologie
 
 арт.
 	артыкль
 
+археал.
+	археалогія, археаграфія ‒ Archäologie, Archäographie
+
 архіт.
-	архітэктура
+	архітэктура ‒ Architektur
 
 астр.
-	астраномія
+	астраномія ‒ Astronomie
 
-аўта.
-	аўтамабільная справа
+аўта
+	аўтамабільная тэхніка, прамысловасць ‒ Auto, Autotechnik
 
 афіц.
 	афіцыяльна
@@ -177,209 +180,242 @@ vt
 бакт.
 	бактэрыялогія
 
+бат.
+	батаніка, раслінны свет ‒ Botanik
+
+бібл.
+	біблійны выраз ‒ biblisch
+
+бірж.
+	біржавы тэрмін ‒ Börsenausdruck
+
 біял.
-	біялогія
+	(агульная) біялогія (allgemeine) ‒ Biologie
 
 буд.
-	будаўнічая справа
+	будаўніцтва, будаўнічая тэхніка і матэрыялы ‒ Bauwesen, Bautechnik
 
 бухг.
-	бухгалтэрыя
+	бухгалтэрыя, улік ‒ Buchhaltung
 
 вайск.
-	вайсковая справа
+	вайсковая справа, ваенная тэхніка ‒ Militärwesen
 
 вет.
-	ветэрынарыя
+	ветэрынарыя ‒ Veterinärmedizin
 
 він. скл.
-	вінавальны склон
+	вінавальны склон ‒ Akkusativ
 
 высок.
-	высокі стыль
+	высокі (урачысты) стыль ‒ erhaben
 
 выш. ст.
-	вышэйшая ступень
+	вышэйшая ступень ‒ Komparativ
 
 геагр.
-	геаграфія
+	(агульная, фізічная, эканамічная рэгіянальная) геаграфія ‒ Erdkunde
 
 геад.
-	геадэзія
+	геадэзія ‒ Geodäsie
 
 геал.
-	геалогія
+	геалогія ‒ Geologie
 
 гідр.
 	гідралогія
 
 гіст.
-	гістарычны тэрмін
+	гісторыя ‒ historisch
 
 гл.
-	глядзі
+	глядзі, параўнай ‒ siehe, vergleiche
 
 горн.
-	горная прамысловасць
+	горная прамысловасць, горная справа ‒ Bergbau
 
 грам.
-	граматычны тэрмін
+	граматычны тэрмін (марфалогія, сінтаксіс, словаўтварэнне) ‒ Grammatik (Morphologie, Syntax, Wortbildung)
 
 груб.
-	грубае слова
+	грубае, зняважлівае або лаянкавае слова (выраз) ‒ salopp, derb
 
 дзеепр.
-	дзеепрыметнік
+	дзеепрыметнік ‒ Partizip
 
 дзіц.
 	дзіцячая мова
 
 дып.
-	дыпламатычны тэрмін
+	дыпламатыя ‒ diplomatisch
 
 дыял.
 	дыялектальнае слова
 
 ж. р.
-	жаночы род
+	жаночы род ‒ Femininum
 
 жарг.
 	жаргон
 
 жарт.
-	жартаўлівае слова
+	жартаўлівае слова (выраз) ‒ scherzhaft
 
 жыв.
-	жывапіс
+	жывапіс, графіка ‒ Kunstmalerei
 
 заал.
-	заалогія
+	залогія, жывёльны свет ‒ Zoologie
 
 займ.
-	займеннік
+	займеннік ‒ Pronomen
 
-зал.ст.
-	залежны стан
+зал. ст.
+	залежны стан дзеяслова ‒ Passiv
 
 зборн.
-	зборны назоўнік
+	зборны назоўнік ‒ Sammelname
 
 зняв.
 	зняважліва
 
+і г.д.
+	і гэтак далей ‒ und so weiter
+
 іран.
-	у іранічным сэнсе
+	іранічны выраз ‒ spöttisch
 
 камерц.
-	камерцыйны тэрмін
+	камерцыйна-гандлёвы тэрмін ‒ Handel
 
 камп.
-	камп'ютарны тэрмін
+	камп’ютар, інфарматыка, электроніка ‒ Computer, Informatik, Elektronik
 
 канц.
-	канцылярскі тэрмін
+	канцылярская мова ‒ Kanzleisprache
 
 карт.
-	картачная гульня
+	гульні ў карты ‒ Kartenspiele
+
+касм.
+	касмічная тэхніка, засваенне космасу ‒ Weltraumerschließung, kosmische Technik
 
 кіно
-	кінематаграфія
+	кінематаграфія ‒ Filmkunst
 
 кравец.
 	кравецкая справа
 
-куды-н.
-	куды-небудзь
-
 кул.
-	кулінарыя
+	кулінарыя, прадукты харчавання ‒ Kochkunst, Lebensmittel
 
 ласк.
 	ласкальная форма
 
 лінгв.
-	лінгвістыка
+	агульная лінгвістыка ‒ allgemeine Linguistik
+
+літ.
+	літаратуразнаўства, гісторыя літаратуры ‒ Literaturwissenschaft und -geschichte
 
 ліч.
-	лічэбнік
+	лічэбнік ‒ Numerale
 
 м. р.
-	мужчынскі род
+	мужчынскі род ‒ Maskulinum
 
 марск.
-	марская справа
+	марская справа, марская тэхніка ‒ Seefahrt, Schiffe
 
 маст.
-	мастацтва
+	мастацтвазнаўства, гісторыя мастацтва ‒ Kunstwissenschaft und -geschichte
 
 матэм.
-	матэматыка
+	матэматыка ‒ Mathematik
 
 мед.
-	медыцына
+	медыцына, ахова здароўя ‒ Medizin, Gesundheitswesen
 
 метэар.
-	метэаралогія
+	метэаралогія ‒ Meteorologie
 
 мін.
-	мінералогія
+	мінералогія ‒ Mineralogie
 
 міф.
-	міфалогія
+	міфалогія ‒ Mythologie
+
+мн.
+	множны лік ‒ Plural
 
 муз.
-	музыка
+	музыказнаўства, гісторыя музыкі, музычныя інструменты ‒ Musikkunst
 
 мясц.
 	мясцовасць
 
+-н.
+	–небудзь ‒ irgend-
+
 н. р.
-	ніякі род
+	ніякі род ‒ Neutrum
 
 наз.
-	назоўнік
+	назоўнік ‒ Substantiv
 
 напр.
-	напрыклад
+	напрыклад ‒ zum Beispiel
 
 неаддз.
-	неаддзяляльная прыстаўка
+	неаддзяляльная прыстаўка ‒ untrennbares Präfix
+
+нескл.
+	не скланяецца ‒ undeklinierbar
 
 неўхв.
 	неўхваляльна
 
 пагардл.
-	пагары́ліва
+	пагардліва ‒ abschätzig, geringschätzig
 
 палігр.
-	паліграфія
+	паліграфія, друк, паліграфічная тэхніка ‒ Druck, Polygraphie
 
 паліт.
-	палітычны тэрмін
+	паліталогія, бягучая палітыка ‒ Politik, Politikwissenschaft
 
 паляўн.
-	паляўнічы тэрмін
+	паляўнічы тэрмін ‒ Jagdwesen
+
+памянш.
+	памяншальная або ласкальная форма ‒ Diminutiv
 
 параўн. ст.
 	параўнальная ступень
 
 паэт.
-	паэтычнае слова
+	паэтычны (вобразны) выраз ‒ poetischer (bildlicher) Ausdruck
 
 пед.
-	педагогіка
+	педагогіка, агульная адукацыя ‒ Pädagogik, Schulwesen
 
 перан.
-	у пераносным сэнсе
+	у пераносным сэнсе ‒ übertragen
 
 прым.
-	прымаўка, прыметнік
+	прымаўка; прыметнік ‒ Adjektiv
 
 прыназ.
-	прыназоўнік
+	прыназоўнік ‒ Präposition
+
+прысл.
+	прыслоўе ‒ Adverb
 
 псіхал.
-	псіхалагічны тэрмін
+	(тэарэтычная і практычная) псіхалогія ‒ theoretische und angewandte Psychologie
+
+пыт.
+	пытанне, пытальны ‒ Frage-; interrogativ
 
 радыё
 	радыётэхніка
@@ -388,22 +424,28 @@ vt
 	радыялогія
 
 разм.
-	размоўнае слова (выраз)
+	размоўны выраз або адхіленне ад літаратурнай нормы ‒ umgangssprachlich oder von der Sprachnorm abweichend
 
 родн. скл.
 	родны склон
 
 рэл.
-	рэлігія
+	рэлігіі свету, рэлігіязнаўства ‒ Religion
 
 с.-г.
-	сельская гаспадарка
+	сельская гаспадарка і сялянскі побыт ‒ Landwirtschaft
 
 скар.
-	скарачэнне
+	скарочана ‒ Abkürzung
+
+слаб. спраж.
+	слабое спражэнне ‒ schwache Deklination
 
 спарт.
-	фізкультура і спорт
+	фізкультура і спорт ‒ Sport
+
+спец.
+	спецыяльны тэрмін (ужываны ў пэўных галінах дзейнасці чалавека) ‒ fachsprachlich
 
 ст.
 	стагоддзе
@@ -412,77 +454,80 @@ vt
 	студэнцкі размоўны выраз
 
 тк.
-	толькі
+	толькі ‒ nur
 
 тс.
-	таксама
+	таксама ‒ auch
 
 тэатр.
-	тэатр, тэатразнаўства
+	тэатразнаўства, гісторыя тэатру ‒ Theater
 
 тэкст.
-	тэкстыльная справа
+	тэкстыльная вытворчасць, тканіны ‒ Textilindustrie, Textilien
 
 тэл.
-	тэлебачане
+	тэлебачанне
 
 тэх.
-	тэхніка
+	політэхнічны тэрмін, тэхнічныя прылады, станкі і г. д. ‒ Technik
+
+у знач.
+	у значэнні ‒ in der Bedeutung (von)
+
+у розн. знач.
+	у розных значэннях ‒ in verschiedenen Bedeutungen
 
 уст.
-	устарэлае слова
+	устарэлае слова (выраз) ‒ veraltet
+
+фалькл.
+	фальклор і фалькларыстыка ‒ Folklore
 
 фам.
 	фамільярна
 
 фан.
-	фанетыка
+	фанетыка, фаналогія ‒ Phonetik, Phonologie
 
 фарм.
-	фармакалогія
+	фармацэўтыка, фармакалогія ‒ Pharmazie
 
 фізіял.
-	фізіялогія
+	фізіялогія ‒ Physiologie
 
 фіз.
-	фізіка
+	фізіка ‒ Physik
 
 філ.
 	філалогія
 
 філас.
-	філасофія
+	філасофія ‒ Philosophie
 
 фін.
-	фінансавы тэрмін
+	фінансы, крэдыт, аўдыт ‒ Finanzwirtschaft
 
 фота
 фатагр.
-	фатаграфія
+	фатаграфія, фотатэхніка ‒ Photographie
 
 хім.
-	хімія
-
-хто-н.
-	хто-небудзь
+	хімія ‒ Chemie
 
 царк.
-	царкоўнае слова (выраз)
+	царкоўнае слова (выраз) ‒ kirchlich
 
 чыг.
-	чыгунка
+	чыгунка, чыгуначная тэхніка ‒ Eisenbahnwesen
 
 шахм.
-	шахматы
-
-што-н.
-	што-небудзь
+	шахматы ‒ Schachspiel
 
 эк.
-	эканоміка
+	эканоміка ‒ Ökonomik, Wirtschaft
 
 эл.
-	электратэхніка
+	электрычнасць, электратэхніка ‒ Elektrizität, Elektrotechnik
 
 этнагр.
 	этнаграфія
@@ -491,4 +536,13 @@ vt
 	эўфемізм
 
 юрыд.
-	юрыдычны тэрмін
+	юрыдычны (прававы) тэрмін ‒ Jura, Gesetzgebung
+
+◊
+	пасля знака ромб падаюцца ўстойлівыя фразеалагізмы, ідыёмы, прыказкі і прымаўкі ‒ Die Raute kennzeichnet idiomatische Wendungen und feste Wortverbindungen
+
+≅
+	знак прыблізнай роўнасці паказвае на тое, што наступны за ≅ пераклад толькі блізкі па сэнсе да беларускага звароту і адрозніваецца ад яго па форме або вобразнасці ‒ Die Übersetzung entspricht nicht völlig dem belarussischen Originaltext, eine Erklärung des Stichwortes ist erforderlich
+
+*
+	Дзеясловы моцнага і няправільнага спражэння пазначаны зорачкай (*), якая адсылае карыстальніка да табліцы асноўных граматычных формаў гэтых дзеясловаў у канцы слоўніка, у якой дзеясловы пададзены без прыставак ‒ Starke und unregelmäßige Verben werden mit dem Stern (*) gekennzeichnet. Der Wörterbuchnutzer kann ihre grammatikalischen Formen am Ende des Wörterbuches in der Konjugationstabelle nachschlagen
