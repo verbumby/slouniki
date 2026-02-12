@@ -1713,6 +1713,7 @@ Arche
 	Откупщиков Ю. В. Из истории индоевропейского словообразования. Л., 1967. 2-е изд., испр. и доп. - СПб., 2005.
 
 Атрэмбскі, Gramatyka
+Атрэмбскі, Gram.
 	Otrębski J. Gramatyka języka litewskiego. T. 2: Nauka o budowie wyrazów. Warszawa, 1965.
 
 Атрэмбскі, Życie wyrazów
