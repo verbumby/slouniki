@@ -33891,10 +33891,10 @@ gryczany
 	[m2][*][ex][lang id=1045]\~a mąka[/lang] — грачаная (грэцкая) мука[/ex][/trn][/*][/m]
 
 gryf
-	[m1][trn][i][c][com][p]м.[/p] [p]міф.[/p][/com][/c][/i] грыф[/trn][/m]
+	[m1][trn][b]I[/b] [i][c][com][p]м.[/p] [p]міф.[/p][/com][/c][/i] грыф[/trn][/m]
 
 gryf{ , \~u}
-	[m1][trn][i][c][com][p]м.[/p] [p]муз.[/p][/com][/c][/i] грыф[/trn][/m]
+	[m1][trn][b]II[/b] [i][c][com][p]м.[/p] [p]муз.[/p][/com][/c][/i] грыф[/trn][/m]
 
 Gryfice
 	[m1][trn][i][c][com][p]мн.[/p] [p]г.[/p][/com][/c][/i] Грыфіцы[/trn][/m]
