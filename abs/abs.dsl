@@ -147312,249 +147312,249 @@ the
 	[m1]2) [i]the… the…[/i] — [trn]чым… тым…[/trn][/m]
 	[m2][*][ex]the more the merrier — чым больш, тым весял[']е[/']й[/ex][/*][/m]
 	[m2][*][ex]the sooner the better — чым хутч[']э[/']й, тым лепш[/ex][/*][/m]
-the Academy
+{the }Academy
 	[m1][trn]сад бліз[']у[/'] стараж[']ы[/']тных Ат[']э[/']наў, дзе вуч[']ы[/']ў Плят[']о[/']н[/trn][/m]
-the Almighty
+{the }Almighty
 	[m1][trn]Бог, Б[']о[/']ства[/trn][/m]
-the ancients
+{the }ancients
 	[m1][trn]стараж[']ы[/']тныя нар[']о[/']ды [i](гр[']э[/']кі, р[']ы[/']мляне)[/trn][/i][/m]
-the Annunciation
+{the }Annunciation
 	[m1][i][c][com][p]Relig.[/p][/com][/c][/i][/m]
 	[m1][trn]Дабрав[']е[/']шчаньне[/trn] [i][c][com][p]n.[/p][/com][/c][/i][/m]
 The Antarctic
 	[m1][trn]Ант[']а[/']рктыка[/trn] [i][c][com][p]f.[/p][/com][/c][/i][/m]
 The Arabian Nights
 	[m1][trn]к[']а[/']зкі “Т[']ы[/']сячы й адна[']е[/'] н[']о[/']чы”[/trn][/m]
-the authorities
+{the }authorities
 	[m1][trn]ул[']а[/']ды[/trn][/m]
-the beaten track
+{the }beaten track
 	[m1][trn]б[']і[/']тая дар[']о[/']жка[/trn][/m]
-the beauty of it …
+{the }beauty of it …
 	[m1][trn]і с[']а[/']мае цік[']а[/']вае…[/trn][/m]
-the best of
+{the }best of
 	[m1][trn]як найл[']е[/']пш[/trn][/m]
-the bill
+{the }bill
 	[m1][i][c][com]informal[/com][/c][/i][/m]
 	[m1][trn]задав[']о[/']ліць вым[']о[/']гі, зраб[']і[/']ць усё, што тр[']э[/']ба[/trn][/m]
-the blahs
+{the }blahs
 	[m1][trn]др[']э[/']нны, непры[']е[/']мны настр[']о[/']й[/trn][/m]
-the blazes
+{the }blazes
 	[m1][i][c][com][p]Sl.[/p][/com][/c][/i][/m]
 	[m1][trn]пяк[']е[/']льны аг[']о[/']нь, п[']е[/']кла[/trn] [i][c][com][p]n.[/p][/com][/c][/i][/m]
 The blind do not see
 	[m1][trn]Сьляп[']ы[/']я ня б[']а[/']чаць[/trn][/m]
-the blue
+{the }blue
 	[m1]а) [trn]н[']е[/']ба[/trn] [i][c][com][p]n.[/p][/com][/c][/i][/m]
 	[m1]б) [trn]м[']о[/']ра[/trn] [i][c][com][p]n.[/p][/com][/c][/i][/m]
-the Blue and the Gray
+{the }Blue and the Gray
 	[m1][trn]с[']і[/']нія й ш[']э[/']рыя [i](паўн[']о[/']чная й паўдзённая [']а[/']рміі ў амэрык[']а[/']нскую грамадз[']я[/']нскую вайн[']у[/'])[/trn][/i][/m]
-the boards
+{the }boards
 	[m1][trn]сц[']э[/']на ў тэ[']а[/']тры[/trn][/m]
-the Book
+{the }Book
 	[m1][trn]Б[']і[/']блія[/trn] [i][c][com][p]f.[/p][/com][/c][/i][/m]
-the boot
+{the }boot
 	[m1][i][c][com][p]Sl.[/p][/com][/c][/i][/m]
 	[m1][trn]звальн[']е[/']ньне[/trn] [i][c][com][p]n.[/p][/com][/c][/i][/m]
-the border
+{the }border
 	[m1][trn]пагран[']і[/']чная палас[']а[/'] пам[']і[/']ж Зл[']у[/']чанымі Шт[']а[/']тамі і Кан[']а[/']дай [i]аб[']о[/'][/i] М[']э[/']ксыкай[/trn][/m]
-the bottle
+{the }bottle
 	[m1][trn]бут[']э[/']лька алкаг[']о[/']льнага нап[']о[/']ю[/trn][/m]
-the box
+{the }box
 	[m1][i][c][com]informal[/com][/c][/i][/m]
 	[m1][trn]тэлев[']і[/']зар -а[/trn] [i][c][com][p]m.[/p][/com][/c][/i][/m]
-the boys
+{the }boys
 	[m1]а) [trn]сын[']ы[/'][/trn] [i][c][com][p]pl.[/p][/com][/c][/i][/m]
 	[m1]б) [trn]мужч[']ы[/']нскае тав[']а[/']рыства[/trn][/m]
-the {(}British{)} Commonwealth of Nations
-the {(British) }Commonwealth of Nations
+{the }{(}British{)} Commonwealth of Nations
+{the }{(British) }Commonwealth of Nations
 	[m1][trn]Брыт[']а[/']нская суп[']о[/']льнасьць нар[']о[/']даў[/trn][/m]
-the butts
+{the }butts
 	[m1][trn]стр[']э[/']льбішча[/trn] [i][c][com][p]n.[/p][/com][/c][/i][/m]
-the chances are
+{the }chances are
 	[m1][trn]праўдапад[']о[/']бна[/trn][/m]
-the chief executive
+{the }chief executive
 	[m1]1)[/m]
 	[m2]а) [trn]губэрн[']а[/']тар шт[']а[/']ту[/trn][/m]
 	[m2]б) [trn]мэр г[']о[/']раду[/trn][/m]
 	[m1]2) [trn]адміністр[']а[/']тар [i](ф[']і[/']рмы, камп[']а[/']ніі)[/i], служб[']о[/']вая ас[']о[/']ба[/trn][/m]
-the civil service
+{the }civil service
 	[m1][trn]дзярж[']а[/']ўная цыв[']і[/']льная сл[']у[/']жба, дзярж[']а[/']ўныя ўрад[']о[/']ўцы[/trn][/m]
-the classics
+{the }classics
 	[m1][trn]кляс[']ы[/']чная літарат[']у[/']ра[/trn][/m]
-the Coast
+{the }Coast
 	[m1][i](у Кан[']а[/']дзе і ЗША)[/i] [trn]узьбяр[']э[/']жжа Атлянт[']ы[/']чнага [i]аб[']о[/'][/i] Ц[']і[/']хага акі[']я[/']ну[/trn][/m]
 The coast is clear
 	[m1][trn]Дар[']о[/']га в[']о[/']льная; небясьп[']е[/']кі ням[']а[/'][/trn][/m]
-the colors
+{the }colors
 	[m1]а) [trn]сьцяг нацыян[']а[/']льны, вайск[']о[/']вы[/trn][/m]
 	[m1]б) [trn]цырым[']о[/']ніі падым[']а[/']ньня й апуск[']а[/']ньня сьц[']я[/']га[/trn][/m]
-the Confederacy
+{the }Confederacy
 	[m1][trn]гр[']у[/']па адзінаццацёх паўдзённых шт[']а[/']таў, як[']і[/']я ў 1860-61 гг. адлуч[']ы[/']ліся ад ЗША[/trn][/m]
-the Confederation
+{the }Confederation
 	[m1][trn]задзін[']о[/']чаньне трынаццацёх амэрык[']а[/']нскіх штат[']а[/']ў пав[']о[/']дле Палаж[']э[/']ньняў 1781-89 гг[/trn][/m]
-the conscious
+{the }conscious
 	[m1][i][c][com]Psychol.[/com][/c][/i][/m]
 	[m1][trn]сьв[']е[/']дамасьць[/trn] [i][c][com][p]f.[/p][/com][/c][/i][/m]
-the Continent
+{the }Continent
 	[m1][trn]Эўр[']о[/']па [i](без Брыт[']а[/']нскіх астрав[']о[/']ў)[/trn][/i][/m]
-the Creation
+{the }Creation
 	[m1][trn]ствар[']э[/']ньне сусьв[']е[/']ту Б[']о[/']гам[/trn][/m]
-the Creator
+{the }Creator
 	[m1][trn]Бог[/trn][/m]
-the Creed
+{the }Creed
 	[m1][trn]с[']ы[/']мбаль в[']е[/']ры[/trn][/m]
-the Crown
+{the }Crown
 	[m1][trn]карал[']е[/']ўская ўл[']а[/']да[/trn][/m]
 The day is breaking
 	[m1][trn]Дн[']е[/']е[/trn][/m]
-the day is ours
+{the }day is ours
 	[m1][trn]мы перамагл[']і[/'] [i](у бітв[']е[/'])[/trn][/i][/m]
-the deep
+{the }deep
 	[m1][i][c][com][p]Poet.[/p][/com][/c][/i][/m]
 	[m1][trn]м[']о[/']ра[/trn] [i][c][com][p]n.[/p][/com][/c][/i], [trn]акі[']я[/']н -у[/trn] [i][c][com][p]m.[/p][/com][/c][/i][/m]
-the Deluge
+{the }Deluge
 	[m1][trn]бібл[']е[/']йскі сусьв[']е[/']тны пат[']о[/']п[/trn][/m]
 The dice is cast
 	[m1][trn]Ж[']э[/']рабя к[']і[/']нутае [i](В[']ы[/']бар зр[']о[/']блены)[/trn][/i][/m]
-the Divinity
+{the }Divinity
 	[m1][trn]Бог[/trn][/m]
-the drinking of water
+{the }drinking of water
 	[m1][trn]піцьцё вад[']ы[/'][/trn][/m]
-the East
+{the }East
 	[m1]а) [trn]усх[']о[/']дняя ч[']а[/']стка Кан[']а[/']ды й Зл[']у[/']чаных Шт[']а[/']таў[/trn][/m]
 	[m1]б) [trn]Усх[']о[/']д, азі[']я[/']цкія кра[']і[/']ны[/trn][/m]
 	[m1]в) [trn]был[']ы[/'] Сав[']е[/']цкі Са[']ю[/']з і яг[']о[/']ныя ўсх[']о[/']днеэўрап[']е[/']йскія сатэл[']і[/']ты[/trn][/m]
 The Establishment
 	[m1][trn]іст[']э[/']блішмэнт -у[/trn] [i][c][com][p]m.[/p][/com][/c][/i], [trn]уплыв[']о[/']вая гр[']у[/']па людз[']е[/']й у кр[']а[/']і, грам[']а[/']дзтве[/trn][/m]
-the fair sex
-the gentle sex
+{the }fair sex
+{the }gentle sex
 	[m1][trn]жанч[']ы[/']ны[/trn][/m]
-the four corners of the world
+{the }four corners of the world
 	[m1][trn]край сьв[']е[/']ту[/trn][/m]
-the fruits of the earth
+{the }fruits of the earth
 	[m1][trn]дар[']ы[/'] прыр[']о[/']ды[/trn][/m]
-the Good Shepherd
+{the }Good Shepherd
 	[m1][trn]Д[']о[/']бры П[']а[/']стыр [i](пра Іс[']у[/']са Хрыст[']а[/'])[/trn][/i][/m]
-the grades
+{the }grades
 	[m1][trn]пачатк[']о[/']вая шк[']о[/']ла[/trn][/m]
-the Great Bear
+{the }Great Bear
 	[m1][trn]Вял[']і[/']кі Воз [i](суз[']о[/']р’е)[/trn][/i][/m]
-the happiest man alive
+{the }happiest man alive
 	[m1][trn]найшчасьлів[']е[/']йшы чалав[']е[/']к на сьв[']е[/']це[/trn][/m]
-the highway to promotion
+{the }highway to promotion
 	[m1][trn]пр[']о[/']сты шлях да павыш[']э[/']ньня [i](па сл[']у[/']жбе)[/trn][/i][/m]
-the Holy Spirit
+{the }Holy Spirit
 	[m1][trn]Сьвят[']ы[/'] Дух[/trn][/m]
 The house burned up
 	[m1][trn]Дом цалк[']о[/']м згар[']э[/']ў[/trn][/m]
-the humanities
+{the }humanities
 	[m1]а) [trn]лац[']і[/']нская й гр[']э[/']цкая м[']о[/']ва й літарат[']у[/']ра[/trn][/m]
 	[m1]б) [trn]гуманіт[']а[/']рныя нав[']у[/']кі[/trn][/m]
-the husk of a man
+{the }husk of a man
 	[m1][trn]цень чалав[']е[/']ка[/trn][/m]
-the index finger
+{the }index finger
 	[m1][trn]указ[']а[/']льны п[']а[/']лец[/trn][/m]
-the iron Curtain
+{the }iron Curtain
 	[m1][trn]Жал[']е[/']зная Засл[']о[/']на[/trn][/m]
-the last word
+{the }last word
 	[m1]а) [trn]канчатк[']о[/']вае сьв[']е[/']дчаньне; закл[']ю[/']чнае сл[']о[/']ва[/trn][/m]
 	[m1]б) [trn]ап[']о[/']шняе, найнав[']е[/']йшае сл[']о[/']ва [i](нав[']у[/']кі, т[']э[/']хнікі)[/trn][/i][/m]
-the latest
+{the }latest
 	[m1][i][c][com]informal[/com][/c][/i][/m]
 	[m1][trn]найб[']о[/']льш суч[']а[/']снае, найнав[']е[/']йшы стыль, фас[']о[/']н, мад[']э[/']ль[/trn][/m]
 The light is on
 	[m1][trn]Сьвятл[']о[/'] гар[']ы[/']ць[/trn][/m]
-the line
+{the }line
 	[m1][trn]экв[']а[/']тар -а[/trn] [i][c][com][p]m.[/p][/com][/c][/i][/m]
-the Little Bear
+{the }Little Bear
 	[m1][trn]Мал[']ы[/'] Воз [i](суз[']о[/']р’е)[/trn][/i][/m]
-the long and the short of it
+{the }long and the short of it
 	[m1][trn]к[']о[/']ратка к[']а[/']жучы[/trn][/m]
-the main chance
+{the }main chance
 	[m1][trn]баг[']а[/']цьце[/trn][/m]
-the masses
+{the }masses
 	[m1][trn]м[']а[/']сы[/trn] [i][c][com][p]pl.[/p][/com][/c][/i], [trn]пр[']о[/']стыя прац[']о[/']ўныя л[']ю[/']дзі, нар[']о[/']дныя м[']а[/']сы[/trn][/m]
-the Nine
+{the }Nine
 	[m1][trn]М[']у[/']зы[/trn][/m]
-the old Adam
+{the }old Adam
 	[m1][trn]людзк[']а[/']я сх[']і[/']льнасьць да грах[']у[/'][/trn][/m]
-the Omnipotent
+{the }Omnipotent
 	[m1][trn]Усемаг[']у[/']тны -ага[/trn] [i][c][com][p]m.[/p][/com][/c][/i], [trn]Бог -а[/trn] [i][c][com][p]m.[/p][/com][/c][/i][/m]
-the other day
+{the }other day
 	[m1][trn]няд[']а[/']ўна; дн[']я[/']мі; на дн[']я[/']х[/trn][/m]
-the other night
+{the }other night
 	[m1][trn]няд[']а[/']ўна в[']е[/']чарам; н[']е[/']як в[']е[/']чарам[/trn][/m]
-the other side of the coin
+{the }other side of the coin
 	[m1][trn]адвар[']о[/']тны бок ман[']э[/']ты[/trn][/m]
-the pill
+{the }pill
 	[m1][trn]піг[']у[/']лка супр[']о[/']ць цяж[']а[/']рнасьці[/trn][/m]
-the prodigal son
+{the }prodigal son
 	[m1][trn]бл[']у[/']дны сын [i](бібл[']е[/']йскі)[/trn][/i][/m]
-the rate of exchange
+{the }rate of exchange
 	[m1][trn]вал[']ю[/']тны курс[/trn][/m]
-the same
+{the }same
 	[m1][trn]такс[']а[/']ма, г[']э[/']так жа[/trn][/m]
-the seals
+{the }seals
 	[m1][trn]азн[']а[/']ка дзярж[']а[/']ўнай пас[']а[/']ды[/trn][/m]
-the service{(s)}
-the service{(}s{)}
+{the }service{(s)}
+{the }service{(}s{)}
 	[m1][trn][']а[/']рмія, аві[']я[/']цыя, флёт[/trn][/m]
-the shades
+{the }shades
 	[m1][trn]пр[']ы[/']цемак, паўзмр[']о[/']к [i](в[']е[/']чара)[/i]; змрок, ц[']е[/']мра [i](н[']о[/']чы)[/trn][/i][/m]
-the shadows
+{the }shadows
 	[m1][trn]пр[']ы[/']цемак -ку[/trn] [i][c][com][p]m.[/p][/com][/c][/i], [trn]паўзмр[']о[/']к -у[/trn] [i][c][com][p]m.[/p][/com][/c][/i][/m]
-the sky is the limit
+{the }sky is the limit
 	[m1][trn]ням[']а[/'] м[']е[/']жаў[/trn][/m]
-the snuffles
+{the }snuffles
 	[m1][i][c][com]informal[/com][/c][/i][/m]
 	[m1]а) [trn]гугн[']я[/']васьць[/trn] [i][c][com][p]f.[/p][/com][/c][/i][/m]
 	[m1]б) [trn]д[']ы[/']хальная хвар[']о[/']ба ў жывёлы[/trn][/m]
-the species
+{the }species
 	[m1][trn]род чалав[']е[/']чы[/trn][/m]
-the stake
+{the }stake
 	[m1]а) [trn]слуп, да як[']о[/']га прыв[']я[/']звалі ас[']у[/']джанага на спал[']е[/']ньне[/trn][/m]
 	[m1]б) [trn]спал[']е[/']ньне жыв[']ы[/']м[/trn][/m]
-the sterner sex
-the stronger sex
+{the }sterner sex
+{the }stronger sex
 	[m1][trn]мужч[']ы[/']ны[/trn][/m]
-the suburbs
+{the }suburbs
 	[m1][trn]пр[']ы[/']гарадныя раёны, прадм[']е[/']сьці[/trn][/m]
 The sun is up
 	[m1][trn]С[']о[/']нца ўзыйшл[']о[/'][/trn][/m]
-the supernatural
+{the }supernatural
 	[m1][trn]звышнатур[']а[/']льныя зь[']я[/']вы[/trn][/m]
-the supreme sacrifice
+{the }supreme sacrifice
 	[m1][trn]найвыш[']э[/']йшая ахв[']я[/']ра; ахв[']я[/']ра жыцьцём[/trn][/m]
-the sword
+{the }sword
 	[m1]а) [trn]вайн[']а[/'][/trn][/m]
 	[m1]б) [trn]с[']і[/']ла збр[']о[/']і[/trn][/m]
-the Tempter
+{the }Tempter
 	[m1][trn]чорт -а, сатан[']а[/'] -[']ы[/'][/trn] [i][c][com][p]m.[/p][/com][/c][/i][/m]
-the trades
+{the }trades
 	[m1][trn]пас[']а[/']ты [i](вятр[']ы[/'])[/trn][/i][/m]
-the Transfiguration
+{the }Transfiguration
 	[m1][i][c][com]Rel.[/com][/c][/i][/m]
 	[m1][trn]Перамян[']е[/']ньне, Праабраж[']э[/']ньне[/trn] [i][c][com][p]n.[/p][/com][/c][/i][/m]
-the turf
+{the }turf
 	[m1]а) [trn]гіпадр[']о[/']м[/trn][/m]
 	[m1]б) [trn]ск[']а[/']чкі[/trn] [i][c][com][p]pl.[/p] only[/com][/c][/i], [trn]к[']о[/']нныя спаб[']о[/']рніцтвы[/trn][/m]
-the unities
+{the }unities
 	[m1][trn]пр[']а[/']віла адз[']і[/']нства ч[']а[/']су, месца й дз[']е[/']яньня [i](у кляс[']ы[/']чнай др[']а[/']ме)[/trn][/i][/m]
-the ups and downs of life
+{the }ups and downs of life
 	[m1][trn]жыцьцёвыя ўд[']а[/']чы й няўд[']а[/']чы[/trn][/m]
-the way the wind blows
+{the }way the wind blows
 	[m1][trn]як в[']е[/']цер дзьме, у як[']і[/']м кір[']у[/']нку в[']е[/']цер пав[']е[/']е[/trn][/m]
-the West
+{the }West
 	[m1][trn]зах[']о[/']дняя ч[']а[/']стка Зл[']у[/']чаных Шт[']а[/']таў, Кан[']а[/']ды[/trn][/m]
-the whys of it
+{the }whys of it
 	[m1][trn]прыч[']ы[/']ны, асн[']о[/']вы г[']э[/']тага[/trn][/m]
-the wide
+{the }wide
 	[m1][trn]вял[']і[/']кі абш[']а[/']р, неабс[']я[/']жная праст[']о[/']ра[/trn][/m]
 The Word
 	[m1][trn]Сл[']о[/']ва [i](друг[']а[/']я ас[']о[/']ба Сьвят[']о[/']й Тр[']о[/']йцы)[/trn][/i][/m]
-the writings of Shakespeare
+{the }writings of Shakespeare
 	[m1][trn]тв[']о[/']ры Ш[']э[/']ксьпіра[/trn][/m]
-the wrong side of the tracks
+{the }wrong side of the tracks
 	[m1][trn]б[']е[/']дны кварт[']а[/']л м[']е[/']ста[/trn][/m]
 theater
 	[t]\[ˈӨi:ətər\][/t]
