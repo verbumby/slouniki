@@ -147529,7 +147529,7 @@ the sword
 	[m1]а) [trn]вайн[']а[/'][/trn][/m]
 	[m1]б) [trn]с[']і[/']ла збр[']о[/']і[/trn][/m]
 the Tempter
-	[m1][trn]чорт -а, сатан[']а[/']-[']ы[/'][/trn] [i][c][com][p]m.[/p][/com][/c][/i][/m]
+	[m1][trn]чорт -а, сатан[']а[/'] -[']ы[/'][/trn] [i][c][com][p]m.[/p][/com][/c][/i][/m]
 the trades
 	[m1][trn]пас[']а[/']ты [i](вятр[']ы[/'])[/trn][/i][/m]
 the Transfiguration
