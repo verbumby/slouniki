@@ -126276,7 +126276,7 @@ sat
 Satan
 	[t]\[ˈseɪtən\][/t]
 	[m1][i][c][com][p]n.[/p][/com][/c][/i][/m]
-	[m1][trn]Шат[']а[/']н -а[/trn] [i][c][com][p]m.[/p][/com][/c][/i], [trn]сатан[']а[/']-[']ы[/'][/trn] [i][c][com][p]m.[/p][/com][/c][/i], [trn]д’[']я[/']бал -ла[/trn] [i][c][com][p]m.[/p][/com][/c][/i][/m]
+	[m1][trn]Шат[']а[/']н -а[/trn] [i][c][com][p]m.[/p][/com][/c][/i], [trn]сатан[']а[/'] -[']ы[/'][/trn] [i][c][com][p]m.[/p][/com][/c][/i], [trn]д’[']я[/']бал -ла[/trn] [i][c][com][p]m.[/p][/com][/c][/i][/m]
 Satanic
 satanic
 	[t]\[səˈtænɪk\][/t]
