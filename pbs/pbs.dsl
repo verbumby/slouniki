@@ -145075,7 +145075,7 @@ wojna
 	[m2][*][ex][lang id=1045]\~a powietrzna[/lang] — паветраная вайна;[/ex][/*][/m]
 	[m2][*][ex][lang id=1045]\~a światowa[/lang] — сусветная вайна;[/ex][/*][/m]
 	[m2][*][ex][lang id=1045]zimna \~a[/lang] — халодная вайна;[/ex][/*][/m]
-	[m2][*][ex][lang id=1045]wypowiedzieć \~ę[/lang] — аб(явіць вайну[/ex][/trn][/*][/m]
+	[m2][*][ex][lang id=1045]wypowiedzieć \~ę[/lang] — аб’явіць вайну[/ex][/trn][/*][/m]
 
 wojo
 	[m1][trn][i][c][com][p]н.[/p] [p]разм.[/p][/com][/c][/i] войска[/trn][/m]
@@ -145843,7 +145843,7 @@ wróbel
 	[m2][*][ex][lang id=1045]stary wróbel[/lang] — біты воўк[/ex][/trn][/*][/m]
 
 wróbli
-	[m1][trn]вераб(іны[/trn][/m]
+	[m1][trn]вераб’іны[/trn][/m]
 
 wrócić
 	[trn][lang id=1045]wróc||ić[/lang]
@@ -151716,7 +151716,7 @@ wyposażyć
 wypowiadać
 	[m1][trn][i][c][com][p]незак.[/p][/com][/c][/i]
 	[m1][b]1.[/b] выказваць;[/m]
-	[m1][b]2.[/b] аб(яўляць;[/m]
+	[m1][b]2.[/b] аб’яўляць;[/m]
 	[m1][i][c][com][p]гл.[/p][/com][/c][/i] [ref]wypowiedzieć[/ref][/trn][/m]
 
 wypowiadać się
@@ -151728,14 +151728,14 @@ wypowiadanie się
 wypowiedzenie
 	[m1][trn][i][c][com][p]н.[/p][/com][/c][/i]
 	[m1][b]1.[/b] выказванне;[/m]
-	[m1][b]2.[/b] заява; аб(яўленне;[/m]
+	[m1][b]2.[/b] заява; аб’яўленне;[/m]
 	[m1][b]3.[/b] звальненне; адмова[/trn][/m]
 
 wypowiedzieć
 	[m1][trn][i][c][com][p]зак.[/p][/com][/c][/i]
 	[m1][b]1.[/b] выказаць;[/m]
-	[m1][b]2.[/b] аб(явіць;[/m]
-	[m2][*][ex][lang id=1045]wypowiedzieć wojnę[/lang] — аб(явіць вайну;[/ex][/*][/m]
+	[m1][b]2.[/b] аб’явіць;[/m]
+	[m2][*][ex][lang id=1045]wypowiedzieć wojnę[/lang] — аб’явіць вайну;[/ex][/*][/m]
 	[m2][*][ex][lang id=1045]wypowiedzieć umowę[/lang] — дэнансаваць дагавор;[/ex][/*][/m]
 	[m2][*][ex][lang id=1045]wypowiedzieć pracę[/lang] — звольніць з працы[/ex][/trn][/*][/m]
 
@@ -154384,7 +154384,7 @@ wywieszać
 wywieszka
 	[m1][trn][i][c][com][p]ж.[/p][/com][/c][/i]
 	[m1][b]1.[/b] шыльда;[/m]
-	[m1][b]2.[/b] аб(ява; абвестка[/trn][/m]
+	[m1][b]2.[/b] аб’ява; абвестка[/trn][/m]
 
 wywieść
 	[m1][trn][i][c][com][p]зак.[/p][/com][/c][/i]
